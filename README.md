@@ -6,7 +6,7 @@ DataGrip adalah lingkungan manajemen basis data untuk pengembang. Hal ini diranc
 Contoh: 
 INSERT INTO table_name (column1, column2, column3)
 VALUES (value1, value2, value3); 
-
+```
 Contoh Table:
 create table Akun
 (
@@ -32,3 +32,4 @@ INSERT INTO Akun (Email, password, Username, Nama) VALUES ("Selvi@DarkWeb.com", 
                                                           ("Alan@DarkWeb.com", "secret", "Alan", "Alan"),
                                                           ("Sonya@DarkWeb.com", "secret", "Sonya", "Sonya"),
                                                           ("Loyi@DarkWeb.com", "secret", "Loyi", "Loyi");
+```
